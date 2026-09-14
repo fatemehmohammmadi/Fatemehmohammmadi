@@ -1,182 +1,258 @@
 👋 Hi, I'm Fatemeh Mohammadi
 
-Data Scientist · AI Researcher · Cybersecurity Enthusiast
+🧠 Data Scientist · 🤖 AI Researcher · 🔐 Cybersecurity Enthusiast
 
-«Turning data into intelligence. Building AI for a more secure digital world.»
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=7C3AED&center=true&vCenter=true&width=700&lines=Data+Science+%7C+Artificial+Intelligence;Machine+Learning+%7C+LLM+Fine-Tuning;AI+for+Cybersecurity;Turning+Data+into+Intelligence+%F0%9F%A7%A0" />
+</p><p align="center">
+  <a href="https://github.com/fatemehmohammmadi">
+    <img src="https://img.shields.io/badge/GitHub-fatemehmohammmadi-181717?style=for-the-badge&logo=github&logoColor=white"/>
+  </a>
+  <a href="https://www.linkedin.com/in/fateme-mohammadi-bb7b683b1">
+    <img src="https://img.shields.io/badge/LinkedIn-Fatemeh%20Mohammadi-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+</p>---
 
-I'm a Data Scientist passionate about Artificial Intelligence, Machine Learning, Large Language Models, and Cybersecurity.
-
-My current focus is on LLM fine-tuning and AI-driven cybersecurity, exploring how data, machine learning, and intelligent models can be applied to security challenges, threat detection, and security intelligence.
-
----
-
-🧠 About Me
+🧬 About Me
 
 class FatemehMohammadi:
 
-    role = "Data Scientist"
+    name = "Fatemeh Mohammadi"
+    role = "Data Scientist & AI Researcher"
 
-    focus = [
+    education = {
+        "M.Sc.": "Computer Networks",
+        "University": "University of Yazd"
+    }
+
+    primary_language = "Python"
+
+    domains = [
+        "Data Science",
         "Artificial Intelligence",
         "Machine Learning",
+        "Large Language Models",
         "Cybersecurity"
     ]
 
-    languages = ["Python"]
-
-    interests = [
-        "Data Science",
-        "Large Language Models",
+    research = [
         "LLM Fine-Tuning",
-        "AI Security",
-        "Cybersecurity",
+        "AI for Cybersecurity",
         "Threat Detection",
-        "Data Analysis",
         "Security Intelligence"
     ]
 
-    currently_learning = [
-        "LLM Fine-Tuning",
-        "AI for Cybersecurity",
-        "Advanced Machine Learning",
-        "Security-focused AI"
-    ]
+    mindset = "Data → Intelligence → Security"
 
 ---
 
-⚡ What I Work With
+🎯 My Core Focus
 
 <table>
 <tr>
-<td width="50%" valign="top">📊 Data Science
+<td align="center" width="33%">📊
 
-- Data Analysis
-- Exploratory Data Analysis
-- Machine Learning
-- Statistical Analysis
-- Data Visualization
-- Feature Engineering
-- Data Preprocessing
-- Predictive Modeling
+Data Science
 
-</td><td width="50%" valign="top">🤖 Artificial Intelligence
+Data Analysis
+Machine Learning
+Feature Engineering
+Statistics
+Data Visualization
+Predictive Modeling
 
-- Machine Learning
-- Large Language Models
-- LLM Fine-Tuning
-- Natural Language Processing
-- AI Applications
-- Intelligent Systems
-- AI Research
+</td><td align="center" width="33%">🤖
 
-</td>
-</tr><tr>
-<td width="50%" valign="top">🔐 Cybersecurity
+Artificial Intelligence
 
-- AI for Cybersecurity
-- Security Data Analysis
-- Threat Detection
-- Anomaly Detection
-- Security Intelligence
-- ML-based Security Solutions
+Deep Learning
+LLMs
+NLP
+Fine-Tuning
+AI Research
+Intelligent Systems
 
-</td><td width="50%" valign="top">🐍 Development & Tools
+</td><td align="center" width="33%">🔐
 
-- Python
-- NumPy
-- Pandas
-- Scikit-learn
-- PyTorch
-- TensorFlow
-- Jupyter
-- Git & GitHub
+Cybersecurity
+
+Threat Detection
+Anomaly Detection
+Security Analytics
+AI Security
+Security Intelligence
+ML-based Security
 
 </td>
 </tr>
 </table>---
 
-🔬 Research & Interests
+🧠 AI × Data × Security
 
-I'm particularly interested in the intersection of:
-
-Artificial Intelligence × Data Science × Cybersecurity
-
-My goal is to explore how Machine Learning and Large Language Models can be adapted, fine-tuned, and applied to security-oriented tasks such as:
-
-- 🔍 Threat & Anomaly Detection
-- 🛡️ Security Intelligence
-- 🧠 Cybersecurity-focused LLMs
-- 📚 Security Dataset Analysis
-- ⚙️ AI-assisted Security Workflows
-- 🔐 Intelligent Cybersecurity Solutions
-- 🤖 Machine Learning for Security Analytics
-
----
-
-🛠️ Technology Stack
-
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow,sklearn,pandas,numpy,jupyter,git,github,vscode&perline=10" />
-</p>---
-
-📈 GitHub Activity
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&hide_border=true&rank_icon=github" height="165"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&hide_border=true" height="165"/>
-</p>---
-
-🚀 Current Focus
-
-Data Science
-      ↓
+<p align="center">Artificial Intelligence
+↓
 Machine Learning
-      ↓
+↓
 Large Language Models
-      ↓
+↓
 Fine-Tuning
-      ↓
+↓
 Cybersecurity
-      ↓
+↓
 AI-Powered Security
 
-Currently exploring:
-
-- 🧠 LLM Fine-Tuning
-- 🔐 AI for Cybersecurity
-- 📊 Cybersecurity Datasets
-- 🔍 Machine Learning for Threat Detection
-- 🤖 AI-driven Security Solutions
-- 🛡️ Intelligent Security Systems
+</p>I'm particularly interested in building intelligent systems that combine data-driven approaches, machine learning, and large language models to solve real-world cybersecurity problems.
 
 ---
 
-🌱 Always Learning
+🔬 Research Interests
+
+<table>
+<tr>
+<td>🔍 Threat & Anomaly Detection
+
+Detecting unusual patterns and identifying potentially malicious activity using machine learning and data-driven techniques.
+
+</td>
+</tr><tr>
+<td>🧠 Cybersecurity-focused LLMs
+
+Exploring how large language models can be adapted and fine-tuned for security-oriented tasks.
+
+</td>
+</tr><tr>
+<td>🛡️ Security Intelligence
+
+Using AI and data analytics to transform raw security data into actionable intelligence.
+
+</td>
+</tr><tr>
+<td>📚 Security Dataset Analysis
+
+Working with cybersecurity datasets to discover patterns, build models, and evaluate intelligent security solutions.
+
+</td>
+</tr>
+</table>---
+
+⚡ Tech Stack
+
+🐍 Programming & Data
+
+<p>
+<img src="https://skillicons.dev/icons?i=python,numpy,pandas,sklearn,jupyter&perline=10"/>
+</p>🤖 AI & Machine Learning
+
+<p>
+<img src="https://skillicons.dev/icons?i=pytorch,tensorflow&perline=10"/>
+</p>🛠️ Tools & Development
+
+<p>
+<img src="https://skillicons.dev/icons?i=git,github,vscode,linux&perline=10"/>
+</p>---
+
+📈 GitHub Analytics
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=fatemehmohammmadi&show_icons=true&hide_border=true&rank_icon=github&include_all_commits=true" height="180"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=fatemehmohammmadi&layout=compact&hide_border=true&langs_count=8" height="180"/>
+</p>---
+
+🔥 GitHub Streak
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=fatemehmohammmadi&hide_border=true" />
+</p>---
+
+📊 Contribution Activity
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=fatemehmohammmadi&hide_border=true&area=true" width="95%"/>
+</p>---
+
+🚀 Currently Exploring
+
+┌─────────────────────────────────────────────┐
+│                                             │
+│        🧠 LLM Fine-Tuning                   │
+│                 ↓                           │
+│        🤖 AI Applications                   │
+│                 ↓                           │
+│        📊 Security Data                     │
+│                 ↓                           │
+│        🔍 Threat Detection                  │
+│                 ↓                           │
+│        🛡️ AI-Powered Cybersecurity         │
+│                                             │
+└─────────────────────────────────────────────┘
+
+Current topics
+
+- 🧠 Large Language Model Fine-Tuning
+- 🔐 AI for Cybersecurity
+- 📊 Cybersecurity Dataset Analysis
+- 🔍 ML-based Threat Detection
+- 🤖 Intelligent Security Systems
+- 🛡️ Security-focused AI
+
+---
+
+💡 What I Like Building
+
+Data
+ │
+ ├──► Clean
+ │
+ ├──► Analyze
+ │
+ ├──► Learn
+ │
+ ├──► Fine-Tune
+ │
+ └──► Deploy
+          │
+          ▼
+      Intelligence
+          │
+          ▼
+       Security
+
+---
+
+🌱 Learning Never Stops
 
 «Data → Knowledge → Intelligence → Security»
 
-I'm continuously learning, researching, and experimenting with new approaches in:
+I'm continuously exploring new ideas in:
 
-Data Science · Artificial Intelligence · Machine Learning · LLMs · Cybersecurity
+"Data Science" · "Machine Learning" · "Artificial Intelligence" · "LLMs" · "NLP" · "Cybersecurity"
 
 ---
 
-📚 Areas of Interest
+🏆 GitHub Profile
 
-<p align="center">"Data Science" · "Machine Learning" · "Artificial Intelligence" · "LLMs"
-"Fine-Tuning" · "NLP" · "Cybersecurity" · "Threat Detection"
-"Security Intelligence" · "AI Security" · "Python"
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=fatemehmohammmadi&style=for-the-badge&color=7C3AED&label=PROFILE+VIEWS"/>
+  <img src="https://img.shields.io/github/followers/fatemehmohammmadi?style=for-the-badge&label=FOLLOWERS"/>
+  <img src="https://img.shields.io/github/stars/fatemehmohammmadi?style=for-the-badge&label=STARS"/>
+</p>---
 
+🐍 Contribution Snake
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/fatemehmohammmadi/fatemehmohammmadi/output/github-contribution-grid-snake.svg" />
 </p>---
 
 🤝 Let's Connect
 
-<p align="left"><a href="https://github.com/YOUR_USERNAME">
+<p align="center"><a href="https://github.com/fatemehmohammmadi">
 <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-</a><a href="https://linkedin.com/in/YOUR_USERNAME">
+</a><a href="https://www.linkedin.com/in/fateme-mohammadi-bb7b683b1">
 <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a></p>---
 
-<p align="center">
-  <i>Building with data. Learning with AI. Thinking about security.</i>
+<p align="center">💜 Building with Data · Learning with AI · Thinking about Security
+
+Fatemeh Mohammadi
+
 </p>
