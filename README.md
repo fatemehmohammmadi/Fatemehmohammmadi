@@ -225,13 +225,16 @@ class Fatemeh:
 
 ---
 
-## <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNTF6Z2U0Z3F6Z3R6eGl6Z2Z6Z2Z6Z2Z6Z2Z6Z2Y&rid=giphy.gif" width="1"/> Snake goes brr
+## Contribution snake
 
 <p align="center">
-  <img alt="snake" src="https://raw.githubusercontent.com/fatemehmohammmadi/Fatemehmohammmadi/output/github-contribution-grid-snake-dark.svg" />
+  <img alt="snake dark" src="https://raw.githubusercontent.com/fatemehmohammmadi/Fatemehmohammmadi/output/github-contribution-grid-snake-dark.svg" />
+</p>
+<p align="center">
+  <img alt="snake" src="https://raw.githubusercontent.com/fatemehmohammmadi/Fatemehmohammmadi/output/github-contribution-grid-snake.svg" />
 </p>
 
-> If the snake is empty, star/commit a bit and wait for the generate-snake workflow (or enable [Platane/snk](https://github.com/Platane/snk)) — the rest of the page still slaps.
+> Snake auto-updates via GitHub Actions (`.github/workflows/snake.yml`). First run may take a minute after this push.
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" alt="line"/>
 
